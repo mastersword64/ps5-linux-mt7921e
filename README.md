@@ -65,7 +65,7 @@ If you previously installed the NXP driver, remove it first
 
 | Console model | PS5 firmware | Distro | Kernel | Result |
 | --- | --- | --- | --- | --- |
-| CFI-XXXX (fill in) | X.XX (fill in) | Ubuntu 26.04.1 | 7.1.7 | fill in |
+| CFI-1215a (fill in) | 6.02 (fill in) | Ubuntu 26.04.1 | 7.1.7 | fill in |
 
 Driver output on the tested console:
 
