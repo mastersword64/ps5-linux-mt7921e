@@ -33,7 +33,7 @@ already in `linux-firmware`).
 ## Install
 
 ```
-git clone https://github.com/sam123/ps5-linux-mt7921e
+git clone https://github.com/YOUR_USERNAME/ps5-linux-mt7921e
 cd ps5-linux-mt7921e
 ./install.sh
 ```
